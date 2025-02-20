@@ -1,4 +1,4 @@
-
+![github contribution grid snake animation](https://raw.githubusercontent.com/id1945/id1945/output/github-contribution-grid-snake-dark.svg)
 
 <!--
 **Kavi-Gomez/Kavi-Gomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
